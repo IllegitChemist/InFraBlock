@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 html {
-  background-color: #00031e;
+    font-weight: bold;
+  width: 100vw;
+  height: 100vh;
+  background: url('/images/background.png');
+  background-size: 250px;
+  background-repeat: repeat-x repeat-y;
   color: #CBD2D9;
 }
 
@@ -9,10 +14,13 @@ a {
 }
 
 body {
- background-color: #00031e
-    color: #CBD2D9;
-    font-family: "Inter", sans-serif;
-
+  font-weight: bold;
+  width: 100vw;
+  height: 100vh;
+  background: url('/images/background.png');
+  background-size: 250px;
+  background-repeat: repeat-x repeat-y;
+  font-family: "Inter", sans-serif;
 }
 
 .no-underline {
