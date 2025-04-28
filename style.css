@@ -3,7 +3,7 @@ html {
     font-weight: bold;
   width: 100vw;
   height: 100vh;
-  background: url('/images/background.png');
+  background: url('images/background.png');
   background-size: 250px;
   background-repeat: repeat-x repeat-y;
   color: #CBD2D9;
@@ -17,7 +17,7 @@ body {
   font-weight: bold;
   width: 100vw;
   height: 100vh;
-  background: url('/images/background.png');
+  background: url('images/background.png');
   background-size: 250px;
   background-repeat: repeat-x repeat-y;
   font-family: "Inter", sans-serif;
